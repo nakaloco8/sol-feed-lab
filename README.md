@@ -7,3 +7,4 @@
 2023-11-21 readme
 2023-11-24 add cli flag
 2023-11-26 typo
+2023-11-26 pagination fix
