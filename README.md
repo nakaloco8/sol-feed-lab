@@ -6,3 +6,4 @@
 2023-11-20 cleanup dead code
 2023-11-21 readme
 2023-11-24 add cli flag
+2023-11-26 typo
