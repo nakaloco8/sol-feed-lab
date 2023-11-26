@@ -2,3 +2,4 @@
 2023-11-18 refactor parser
 2023-11-21 readme
 2023-11-24 wire up queue
+2023-11-26 backoff on failure
