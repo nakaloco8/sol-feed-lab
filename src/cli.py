@@ -6,3 +6,4 @@
 2023-11-27 readme
 2023-12-03 bump deps
 2023-12-08 log the raw payload
+2023-12-08 bump deps
