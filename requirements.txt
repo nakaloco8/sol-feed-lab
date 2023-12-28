@@ -2,3 +2,4 @@
 2023-11-20 reduce noise
 2023-11-30 docs
 2023-12-03 bump deps
+2023-12-28 split the fetcher out
