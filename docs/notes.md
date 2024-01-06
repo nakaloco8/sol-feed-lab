@@ -3,3 +3,4 @@
 2023-11-24 split the fetcher out
 2023-11-24 log the raw payload
 2023-12-28 docs
+2024-01-06 cache the lookups
