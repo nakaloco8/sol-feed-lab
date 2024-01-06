@@ -6,3 +6,4 @@
 2023-12-17 add retry on 429
 2024-01-06 move config to env
 2024-01-06 add retry on 429
+2024-01-06 readme
