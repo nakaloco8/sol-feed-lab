@@ -5,3 +5,4 @@
 2023-12-28 docs
 2024-01-06 cache the lookups
 2024-01-10 revert
+2024-01-10 bump deps
