@@ -9,3 +9,4 @@
 2023-12-08 bump deps
 2024-01-06 add tests
 2024-01-10 drop unused import
+2024-01-12 handle empty response
