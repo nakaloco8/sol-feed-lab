@@ -7,3 +7,4 @@
 2023-12-17 wip
 2024-01-06 reduce noise
 2024-01-10 typo
+2024-01-12 cache the lookups
