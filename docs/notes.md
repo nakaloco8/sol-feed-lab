@@ -6,3 +6,4 @@
 2024-01-06 cache the lookups
 2024-01-10 revert
 2024-01-10 bump deps
+2024-01-12 metrics
