@@ -15,3 +15,4 @@
 2024-01-12 backoff on failure
 2024-01-12 wip 2
 2024-01-12 split the fetcher out
+2024-01-14 move config to env
