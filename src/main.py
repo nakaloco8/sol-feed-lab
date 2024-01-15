@@ -16,3 +16,4 @@
 2024-01-12 wip 2
 2024-01-12 split the fetcher out
 2024-01-14 move config to env
+2024-01-15 guard against None
