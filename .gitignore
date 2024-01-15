@@ -6,3 +6,4 @@
 2023-12-08 add cli flag
 2023-12-11 typo
 2023-12-11 bump deps
+2024-01-15 split the fetcher out
