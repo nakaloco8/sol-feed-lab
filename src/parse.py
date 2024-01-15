@@ -9,3 +9,4 @@
 2024-01-10 typo
 2024-01-12 cache the lookups
 2024-01-12 hotfix
+2024-01-15 handle empty response
