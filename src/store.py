@@ -7,3 +7,4 @@
 2024-01-06 move config to env
 2024-01-06 add retry on 429
 2024-01-06 readme
+2024-01-15 reduce noise
