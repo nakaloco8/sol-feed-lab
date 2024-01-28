@@ -8,3 +8,4 @@
 2023-11-26 pagination fix
 2024-01-06 split the fetcher out
 2024-01-28 split the fetcher out
+2024-01-28 add cli flag
