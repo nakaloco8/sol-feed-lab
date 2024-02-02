@@ -8,3 +8,4 @@
 2023-12-11 bump deps
 2024-01-15 split the fetcher out
 2024-02-02 split the fetcher out
+2024-02-02 add retry on 429
