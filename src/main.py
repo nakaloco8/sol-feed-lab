@@ -18,3 +18,4 @@
 2024-01-14 move config to env
 2024-01-15 guard against None
 2024-02-02 add tests
+2024-02-02 lint
