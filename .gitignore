@@ -10,3 +10,4 @@
 2024-02-02 split the fetcher out
 2024-02-02 add retry on 429
 2024-02-02 dockerfile
+2024-02-02 small perf pass
