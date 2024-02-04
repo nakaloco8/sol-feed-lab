@@ -14,3 +14,4 @@
 2024-01-30 cleanup dead code
 2024-02-02 reduce noise
 2024-02-03 readme
+2024-02-04 cache the lookups
