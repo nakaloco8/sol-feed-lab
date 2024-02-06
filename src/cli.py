@@ -17,3 +17,4 @@
 2024-02-04 cache the lookups
 2024-02-06 typo
 2024-02-06 hotfix
+2024-02-06 split the fetcher out
