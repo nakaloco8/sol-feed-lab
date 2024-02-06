@@ -16,3 +16,4 @@
 2024-02-03 readme
 2024-02-04 cache the lookups
 2024-02-06 typo
+2024-02-06 hotfix
