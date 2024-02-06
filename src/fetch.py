@@ -9,3 +9,4 @@
 2024-01-06 split the fetcher out
 2024-01-28 split the fetcher out
 2024-01-28 add cli flag
+2024-02-06 reduce noise
