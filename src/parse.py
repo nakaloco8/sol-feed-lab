@@ -12,3 +12,4 @@
 2024-01-15 handle empty response
 2024-02-03 fix timezone bug
 2024-02-06 fix timezone bug
+2024-02-13 refactor parser
