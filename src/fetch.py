@@ -11,3 +11,4 @@
 2024-01-28 add cli flag
 2024-02-06 reduce noise
 2024-02-13 split the fetcher out
+2024-02-15 refactor parser
