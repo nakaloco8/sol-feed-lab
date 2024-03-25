@@ -12,3 +12,4 @@
 2024-03-21 add retry on 429
 2024-03-25 revert
 2024-03-25 pagination fix
+2024-03-25 refactor parser
