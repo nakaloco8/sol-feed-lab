@@ -25,3 +25,4 @@
 2024-03-20 readme
 2024-03-24 reduce noise
 2024-03-28 drop unused import
+2024-03-28 add retry on 429
