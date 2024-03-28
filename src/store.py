@@ -13,3 +13,4 @@
 2024-02-06 fix timezone bug
 2024-03-21 readme
 2024-03-28 add cli flag
+2024-03-28 refactor parser
