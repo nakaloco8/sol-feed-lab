@@ -27,3 +27,4 @@
 2024-03-28 drop unused import
 2024-03-28 add retry on 429
 2024-03-28 log the raw payload
+2024-05-20 docs
