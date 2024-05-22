@@ -20,3 +20,4 @@
 2024-03-29 wip 2
 2024-05-13 wip 2
 2024-05-21 lint
+2024-05-22 cache the lookups
