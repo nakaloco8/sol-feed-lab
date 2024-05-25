@@ -20,3 +20,4 @@
 2024-03-14 add cli flag
 2024-05-16 fix timezone bug
 2024-05-16 add retry on 429
+2024-05-25 fix timezone bug
