@@ -30,3 +30,4 @@
 2024-05-16 add tests
 2024-05-21 hotfix
 2024-05-29 refactor parser
+2024-05-31 add retry on 429
