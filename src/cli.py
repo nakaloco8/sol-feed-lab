@@ -28,3 +28,4 @@
 2024-03-28 add retry on 429
 2024-03-28 log the raw payload
 2024-05-20 docs
+2024-06-01 typeshed
