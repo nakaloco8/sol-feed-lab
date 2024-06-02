@@ -19,3 +19,4 @@
 2024-05-16 hotfix
 2024-05-22 revert
 2024-05-29 dockerfile
+2024-06-02 readme
