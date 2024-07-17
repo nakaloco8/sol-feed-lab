@@ -31,3 +31,4 @@
 2024-05-21 hotfix
 2024-05-29 refactor parser
 2024-05-31 add retry on 429
+2024-07-17 lint
