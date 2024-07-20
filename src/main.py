@@ -32,3 +32,4 @@
 2024-05-29 refactor parser
 2024-05-31 add retry on 429
 2024-07-17 lint
+2024-07-20 wip 2
