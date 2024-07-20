@@ -26,3 +26,4 @@
 2024-06-02 bump deps
 2024-06-23 lint
 2024-06-23 cleanup dead code
+2024-07-20 backoff on failure
