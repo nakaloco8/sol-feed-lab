@@ -18,3 +18,4 @@
 2024-05-14 guard against None
 2024-05-29 split the fetcher out
 2024-07-21 readme
+2024-07-21 docs
