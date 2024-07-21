@@ -20,3 +20,4 @@
 2024-05-22 revert
 2024-05-29 dockerfile
 2024-06-02 readme
+2024-07-21 typeshed
