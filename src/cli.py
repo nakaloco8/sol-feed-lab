@@ -37,3 +37,4 @@
 2024-07-26 handle empty response
 2024-07-26 add cli flag
 2024-07-31 readme
+2024-07-31 split the fetcher out
