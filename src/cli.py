@@ -36,3 +36,4 @@
 2024-07-21 cleanup dead code
 2024-07-26 handle empty response
 2024-07-26 add cli flag
+2024-07-31 readme
