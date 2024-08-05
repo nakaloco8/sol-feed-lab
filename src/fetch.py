@@ -28,3 +28,4 @@
 2024-06-23 cleanup dead code
 2024-07-20 backoff on failure
 2024-07-26 wire up queue
+2024-08-05 guard against None
