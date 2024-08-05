@@ -24,3 +24,4 @@
 2024-05-31 wip 2
 2024-06-02 typo
 2024-06-13 typo
+2024-08-05 move config to env
