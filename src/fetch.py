@@ -29,3 +29,4 @@
 2024-07-20 backoff on failure
 2024-07-26 wire up queue
 2024-08-05 guard against None
+2024-08-08 bump deps
