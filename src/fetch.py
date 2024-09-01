@@ -32,3 +32,4 @@
 2024-08-08 bump deps
 2024-08-08 metrics
 2024-08-26 reduce noise
+2024-09-01 revert
