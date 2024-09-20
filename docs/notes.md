@@ -27,3 +27,4 @@
 2024-07-17 wip
 2024-07-17 metrics
 2024-07-21 pagination fix
+2024-09-20 move config to env
