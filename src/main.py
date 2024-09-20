@@ -35,3 +35,4 @@
 2024-07-20 wip 2
 2024-07-21 hotfix
 2024-07-26 fix timezone bug
+2024-09-20 add retry on 429
