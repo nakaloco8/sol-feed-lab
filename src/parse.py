@@ -25,3 +25,4 @@
 2024-06-02 typo
 2024-06-13 typo
 2024-08-05 move config to env
+2024-09-22 small perf pass
