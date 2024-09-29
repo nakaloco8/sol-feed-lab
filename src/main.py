@@ -39,3 +39,4 @@
 2024-09-27 guard against None
 2024-09-29 handle empty response
 2024-09-29 cleanup dead code
+2024-09-29 move config to env
