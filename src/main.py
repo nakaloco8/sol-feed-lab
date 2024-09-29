@@ -38,3 +38,4 @@
 2024-09-20 add retry on 429
 2024-09-27 guard against None
 2024-09-29 handle empty response
+2024-09-29 cleanup dead code
