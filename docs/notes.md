@@ -29,3 +29,4 @@
 2024-07-21 pagination fix
 2024-09-20 move config to env
 2024-09-21 add cli flag
+2024-10-01 lint
