@@ -31,3 +31,4 @@
 2024-09-18 wip 2
 2024-10-01 wip
 2024-10-07 readme
+2024-10-07 cache the lookups
