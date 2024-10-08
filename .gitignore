@@ -32,3 +32,4 @@
 2024-10-01 hotfix
 2024-10-07 reduce noise
 2024-10-08 typo
+2024-10-08 guard against None
