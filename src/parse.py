@@ -30,3 +30,4 @@
 2024-09-29 pagination fix
 2024-10-01 migration
 2024-10-08 drop unused import
+2024-10-08 add retry on 429
