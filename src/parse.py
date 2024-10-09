@@ -31,3 +31,4 @@
 2024-10-01 migration
 2024-10-08 drop unused import
 2024-10-08 add retry on 429
+2024-10-09 docs
