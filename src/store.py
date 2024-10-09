@@ -26,3 +26,4 @@
 2024-09-29 small perf pass
 2024-09-30 log the raw payload
 2024-10-01 lint
+2024-10-09 move config to env
