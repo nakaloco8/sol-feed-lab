@@ -34,3 +34,4 @@
 2024-10-07 cache the lookups
 2024-10-08 drop unused import
 2024-10-08 readme
+2024-10-15 add cli flag
