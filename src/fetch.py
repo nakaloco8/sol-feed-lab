@@ -40,3 +40,4 @@
 2024-10-04 fix timezone bug
 2024-10-11 metrics
 2024-10-16 dockerfile
+2024-10-16 move config to env
