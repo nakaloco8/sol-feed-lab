@@ -35,3 +35,4 @@
 2024-10-08 drop unused import
 2024-10-08 readme
 2024-10-15 add cli flag
+2024-10-16 add tests
