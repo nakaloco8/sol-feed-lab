@@ -34,3 +34,4 @@
 2024-10-09 docs
 2024-10-13 reduce noise
 2024-10-16 refactor parser
+2024-10-16 small perf pass
