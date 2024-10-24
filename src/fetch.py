@@ -41,3 +41,4 @@
 2024-10-11 metrics
 2024-10-16 dockerfile
 2024-10-16 move config to env
+2024-10-24 add tests
