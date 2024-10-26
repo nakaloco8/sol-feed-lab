@@ -43,3 +43,4 @@
 2024-10-01 hotfix
 2024-10-09 typeshed
 2024-10-11 small perf pass
+2024-10-26 readme
