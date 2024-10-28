@@ -32,3 +32,4 @@
 2024-10-15 small perf pass
 2024-10-21 docs
 2024-10-22 wip 2
+2024-10-28 split the fetcher out
