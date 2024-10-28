@@ -27,3 +27,4 @@
 2024-10-02 readme
 2024-10-09 lint
 2024-10-26 add retry on 429
+2024-10-28 add retry on 429
