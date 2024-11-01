@@ -45,3 +45,4 @@
 2024-10-11 small perf pass
 2024-10-26 readme
 2024-10-28 add cli flag
+2024-11-01 backoff on failure
