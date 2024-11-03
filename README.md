@@ -38,3 +38,4 @@
 2024-10-16 add tests
 2024-10-26 add cli flag
 2024-10-28 hotfix
+2024-11-03 backoff on failure
