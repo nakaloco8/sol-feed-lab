@@ -34,3 +34,4 @@
 2024-10-16 add retry on 429
 2024-10-16 metrics
 2024-11-01 dockerfile
+2024-11-03 add tests
