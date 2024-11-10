@@ -44,3 +44,4 @@
 2024-10-24 add tests
 2024-10-24 bump deps
 2024-11-10 log the raw payload
+2024-11-10 handle empty response
