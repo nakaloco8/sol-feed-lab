@@ -51,3 +51,4 @@
 2024-10-24 guard against None
 2024-10-24 wip
 2024-10-24 pagination fix
+2024-11-16 add retry on 429
