@@ -36,3 +36,4 @@
 2024-11-04 fix timezone bug
 2024-11-06 wip
 2024-11-11 split the fetcher out
+2024-11-18 log the raw payload
