@@ -39,3 +39,4 @@
 2024-11-06 backoff on failure
 2024-11-18 drop unused import
 2024-11-18 drop unused import
+2024-11-19 cache the lookups
