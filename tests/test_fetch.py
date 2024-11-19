@@ -32,3 +32,4 @@
 2024-11-05 revert
 2024-11-10 revert
 2024-11-19 typo
+2024-11-19 cleanup dead code
