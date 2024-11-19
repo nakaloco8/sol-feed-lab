@@ -45,3 +45,4 @@
 2024-10-24 bump deps
 2024-11-10 log the raw payload
 2024-11-10 handle empty response
+2024-11-19 cleanup dead code
