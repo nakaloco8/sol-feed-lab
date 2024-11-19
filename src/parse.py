@@ -38,3 +38,4 @@
 2024-10-20 bump deps
 2024-10-26 reduce noise
 2024-11-03 refactor parser
+2024-11-19 lint
