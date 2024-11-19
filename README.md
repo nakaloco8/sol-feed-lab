@@ -42,3 +42,4 @@
 2024-11-03 typo
 2024-11-06 wip
 2024-11-19 guard against None
+2024-11-19 lint
