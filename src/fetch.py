@@ -47,3 +47,4 @@
 2024-11-10 handle empty response
 2024-11-19 cleanup dead code
 2024-11-19 bump deps
+2024-11-21 lint
