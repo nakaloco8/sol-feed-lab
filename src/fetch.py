@@ -49,3 +49,4 @@
 2024-11-19 bump deps
 2024-11-21 lint
 2024-11-24 migration
+2024-11-25 metrics
