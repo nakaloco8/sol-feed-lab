@@ -42,3 +42,4 @@
 2024-11-21 split the fetcher out
 2024-11-21 fix timezone bug
 2024-11-24 metrics
+2024-12-03 revert
