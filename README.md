@@ -43,3 +43,4 @@
 2024-11-06 wip
 2024-11-19 guard against None
 2024-11-19 lint
+2024-12-05 move config to env
