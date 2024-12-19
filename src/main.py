@@ -49,3 +49,4 @@
 2024-11-19 add cli flag
 2024-11-25 typo
 2024-12-05 log the raw payload
+2024-12-19 bump deps
