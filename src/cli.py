@@ -56,3 +56,4 @@
 2024-11-19 guard against None
 2024-11-21 fix timezone bug
 2024-11-27 bump deps
+2024-12-28 handle empty response
