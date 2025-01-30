@@ -55,3 +55,4 @@
 2025-01-19 refactor parser
 2025-01-26 reduce noise
 2025-01-27 add cli flag
+2025-01-30 metrics
