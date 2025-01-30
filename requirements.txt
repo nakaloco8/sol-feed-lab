@@ -46,3 +46,4 @@
 2024-11-24 docs
 2024-12-05 docs
 2024-12-19 docs
+2025-01-30 handle empty response
