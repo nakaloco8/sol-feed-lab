@@ -45,3 +45,4 @@
 2024-11-19 lint
 2024-12-05 move config to env
 2025-01-25 hotfix
+2025-01-31 cache the lookups
