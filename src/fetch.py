@@ -53,3 +53,4 @@
 2024-11-26 lint
 2024-12-05 add tests
 2025-01-04 dockerfile
+2025-02-03 typo
