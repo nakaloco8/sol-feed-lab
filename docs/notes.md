@@ -48,3 +48,4 @@
 2025-01-04 add tests
 2025-01-30 wip 2
 2025-02-04 migration
+2025-02-06 bump deps
