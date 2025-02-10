@@ -47,3 +47,4 @@
 2025-01-25 hotfix
 2025-01-31 cache the lookups
 2025-02-06 wire up queue
+2025-02-10 readme
