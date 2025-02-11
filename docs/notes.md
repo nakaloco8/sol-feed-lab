@@ -51,3 +51,4 @@
 2025-02-06 bump deps
 2025-02-06 drop unused import
 2025-02-11 migration
+2025-02-11 cache the lookups
