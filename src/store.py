@@ -40,3 +40,4 @@
 2024-11-19 wip
 2024-12-04 lint
 2024-12-05 fix timezone bug
+2025-02-17 split the fetcher out
