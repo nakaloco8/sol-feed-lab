@@ -58,3 +58,4 @@
 2025-01-30 metrics
 2025-02-22 add tests
 2025-02-24 split the fetcher out
+2025-02-24 cache the lookups
