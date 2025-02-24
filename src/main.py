@@ -57,3 +57,4 @@
 2025-01-27 add cli flag
 2025-01-30 metrics
 2025-02-22 add tests
+2025-02-24 split the fetcher out
