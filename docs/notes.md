@@ -53,3 +53,4 @@
 2025-02-11 migration
 2025-02-11 cache the lookups
 2025-02-25 typo
+2025-02-25 guard against None
