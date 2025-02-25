@@ -44,3 +44,4 @@
 2025-02-17 add tests
 2025-02-17 log the raw payload
 2025-02-17 hotfix
+2025-02-25 move config to env
