@@ -51,3 +51,4 @@
 2025-02-11 handle empty response
 2025-02-22 docs
 2025-02-26 wip 2
+2025-03-01 move config to env
