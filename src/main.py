@@ -64,3 +64,4 @@
 2025-03-02 split the fetcher out
 2025-03-02 readme
 2025-03-05 readme
+2025-03-05 add cli flag
