@@ -42,3 +42,4 @@
 2025-02-17 add cli flag
 2025-03-01 log the raw payload
 2025-03-11 move config to env
+2025-03-11 guard against None
