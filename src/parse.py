@@ -49,3 +49,4 @@
 2025-02-25 wip 2
 2025-02-27 refactor parser
 2025-03-05 typeshed
+2025-03-11 bump deps
