@@ -43,3 +43,4 @@
 2025-03-01 log the raw payload
 2025-03-11 move config to env
 2025-03-11 guard against None
+2025-03-12 wip 2
