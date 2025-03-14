@@ -50,3 +50,4 @@
 2025-02-27 refactor parser
 2025-03-05 typeshed
 2025-03-11 bump deps
+2025-03-14 handle empty response
