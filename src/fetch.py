@@ -60,3 +60,4 @@
 2025-02-25 typeshed
 2025-02-26 bump deps
 2025-03-15 reduce noise
+2025-03-15 revert
