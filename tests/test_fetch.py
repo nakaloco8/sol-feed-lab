@@ -44,3 +44,4 @@
 2025-03-11 move config to env
 2025-03-11 guard against None
 2025-03-12 wip 2
+2025-03-15 backoff on failure
