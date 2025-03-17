@@ -54,3 +54,4 @@
 2025-03-01 move config to env
 2025-03-15 metrics
 2025-03-15 move config to env
+2025-03-17 bump deps
