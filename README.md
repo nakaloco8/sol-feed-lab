@@ -55,3 +55,4 @@
 2025-03-15 metrics
 2025-03-15 move config to env
 2025-03-17 bump deps
+2025-03-19 guard against None
