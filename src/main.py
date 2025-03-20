@@ -66,3 +66,4 @@
 2025-03-05 readme
 2025-03-05 add cli flag
 2025-03-17 split the fetcher out
+2025-03-20 guard against None
