@@ -68,3 +68,4 @@
 2025-03-17 split the fetcher out
 2025-03-20 guard against None
 2025-03-21 pagination fix
+2025-03-22 refactor parser
