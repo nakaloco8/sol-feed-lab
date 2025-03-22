@@ -69,3 +69,4 @@
 2025-03-20 guard against None
 2025-03-21 pagination fix
 2025-03-22 refactor parser
+2025-03-22 cache the lookups
