@@ -51,3 +51,4 @@
 2025-03-11 split the fetcher out
 2025-03-12 small perf pass
 2025-03-19 add retry on 429
+2025-03-24 cache the lookups
