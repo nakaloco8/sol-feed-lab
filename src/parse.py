@@ -59,3 +59,4 @@
 2025-03-22 readme
 2025-03-26 refactor parser
 2025-03-30 add cli flag
+2025-03-30 guard against None
