@@ -49,3 +49,4 @@
 2025-03-17 hotfix
 2025-03-26 metrics
 2025-03-26 bump deps
+2025-04-03 docs
