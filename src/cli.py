@@ -70,3 +70,4 @@
 2025-03-22 fix timezone bug
 2025-03-22 move config to env
 2025-03-26 revert
+2025-04-05 handle empty response
