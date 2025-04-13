@@ -61,3 +61,4 @@
 2025-03-30 add cli flag
 2025-03-30 guard against None
 2025-04-05 cleanup dead code
+2025-04-13 metrics
