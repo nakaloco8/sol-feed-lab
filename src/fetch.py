@@ -65,3 +65,4 @@
 2025-03-29 add retry on 429
 2025-03-30 small perf pass
 2025-04-15 dockerfile
+2025-04-15 metrics
