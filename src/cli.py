@@ -74,3 +74,4 @@
 2025-04-05 cleanup dead code
 2025-04-10 metrics
 2025-04-13 move config to env
+2025-04-15 cache the lookups
