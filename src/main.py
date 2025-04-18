@@ -72,3 +72,4 @@
 2025-03-22 cache the lookups
 2025-04-01 add cli flag
 2025-04-04 migration
+2025-04-18 backoff on failure
