@@ -76,3 +76,4 @@
 2025-04-13 move config to env
 2025-04-15 cache the lookups
 2025-04-18 wip
+2025-04-19 handle empty response
