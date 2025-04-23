@@ -73,3 +73,4 @@
 2025-04-18 cache the lookups
 2025-04-18 readme
 2025-04-21 move config to env
+2025-04-23 metrics
