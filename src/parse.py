@@ -63,3 +63,4 @@
 2025-04-05 cleanup dead code
 2025-04-13 metrics
 2025-04-22 reduce noise
+2025-05-02 handle empty response
