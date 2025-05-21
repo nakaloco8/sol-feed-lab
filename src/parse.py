@@ -65,3 +65,4 @@
 2025-04-22 reduce noise
 2025-05-02 handle empty response
 2025-05-21 log the raw payload
+2025-05-21 typeshed
