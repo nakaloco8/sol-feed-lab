@@ -70,3 +70,4 @@
 2025-04-17 pagination fix
 2025-04-17 cache the lookups
 2025-05-21 wip
+2025-05-21 handle empty response
