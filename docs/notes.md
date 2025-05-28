@@ -69,3 +69,4 @@
 2025-04-21 small perf pass
 2025-05-21 wire up queue
 2025-05-21 log the raw payload
+2025-05-28 split the fetcher out
