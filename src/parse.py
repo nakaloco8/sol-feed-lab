@@ -67,3 +67,4 @@
 2025-05-21 log the raw payload
 2025-05-21 typeshed
 2025-05-28 bump deps
+2025-05-28 add tests
