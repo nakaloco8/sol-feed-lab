@@ -66,3 +66,4 @@
 2025-04-17 migration
 2025-04-18 add cli flag
 2025-05-28 split the fetcher out
+2025-05-31 guard against None
