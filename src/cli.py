@@ -79,3 +79,4 @@
 2025-04-19 handle empty response
 2025-04-20 revert
 2025-04-21 split the fetcher out
+2025-05-31 cache the lookups
