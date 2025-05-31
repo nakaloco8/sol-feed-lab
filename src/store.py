@@ -59,3 +59,4 @@
 2025-04-13 log the raw payload
 2025-04-15 add tests
 2025-05-21 dockerfile
+2025-05-31 handle empty response
