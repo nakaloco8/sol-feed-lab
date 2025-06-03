@@ -74,3 +74,4 @@
 2025-06-03 split the fetcher out
 2025-06-03 cache the lookups
 2025-06-03 docs
+2025-06-03 lint
