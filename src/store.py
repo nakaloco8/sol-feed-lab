@@ -60,3 +60,4 @@
 2025-04-15 add tests
 2025-05-21 dockerfile
 2025-05-31 handle empty response
+2025-06-05 typeshed
