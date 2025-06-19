@@ -57,3 +57,4 @@
 2025-04-19 drop unused import
 2025-05-28 refactor parser
 2025-05-31 reduce noise
+2025-06-19 split the fetcher out
