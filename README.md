@@ -69,3 +69,4 @@
 2025-05-31 guard against None
 2025-06-05 bump deps
 2025-07-16 readme
+2025-07-18 metrics
