@@ -69,3 +69,4 @@
 2025-05-28 bump deps
 2025-05-28 add tests
 2025-06-28 reduce noise
+2025-07-18 hotfix
