@@ -80,3 +80,4 @@
 2025-06-19 lint
 2025-06-23 metrics
 2025-07-18 add cli flag
+2025-07-18 guard against None
