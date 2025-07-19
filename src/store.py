@@ -62,3 +62,4 @@
 2025-05-31 handle empty response
 2025-06-05 typeshed
 2025-07-18 add retry on 429
+2025-07-19 add cli flag
