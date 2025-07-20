@@ -81,3 +81,4 @@
 2025-04-21 split the fetcher out
 2025-05-31 cache the lookups
 2025-06-19 refactor parser
+2025-07-20 guard against None
