@@ -70,3 +70,4 @@
 2025-06-05 bump deps
 2025-07-16 readme
 2025-07-18 metrics
+2025-07-20 move config to env
