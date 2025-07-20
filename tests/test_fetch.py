@@ -59,3 +59,4 @@
 2025-05-31 reduce noise
 2025-06-19 split the fetcher out
 2025-07-19 split the fetcher out
+2025-07-20 bump deps
