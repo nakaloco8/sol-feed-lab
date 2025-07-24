@@ -82,3 +82,4 @@
 2025-05-31 cache the lookups
 2025-06-19 refactor parser
 2025-07-20 guard against None
+2025-07-24 bump deps
