@@ -61,3 +61,4 @@
 2025-07-19 split the fetcher out
 2025-07-20 bump deps
 2025-07-28 handle empty response
+2025-07-31 typeshed
