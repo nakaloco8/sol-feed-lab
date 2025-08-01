@@ -84,3 +84,4 @@
 2025-07-24 add tests
 2025-07-24 drop unused import
 2025-08-01 revert
+2025-08-01 small perf pass
