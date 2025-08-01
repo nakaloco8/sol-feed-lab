@@ -75,3 +75,4 @@
 2025-07-24 readme
 2025-07-24 migration
 2025-07-28 wire up queue
+2025-08-01 add cli flag
