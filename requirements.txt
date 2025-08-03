@@ -80,3 +80,4 @@
 2025-07-31 readme
 2025-08-01 add tests
 2025-08-03 move config to env
+2025-08-03 wire up queue
