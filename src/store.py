@@ -64,3 +64,4 @@
 2025-07-18 add retry on 429
 2025-07-19 add cli flag
 2025-07-25 reduce noise
+2025-08-03 wip 2
