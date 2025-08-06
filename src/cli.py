@@ -85,3 +85,4 @@
 2025-07-24 bump deps
 2025-08-01 wip 2
 2025-08-03 hotfix
+2025-08-06 move config to env
