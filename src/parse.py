@@ -77,3 +77,4 @@
 2025-07-28 wire up queue
 2025-08-01 add cli flag
 2025-08-03 typeshed
+2025-08-07 guard against None
