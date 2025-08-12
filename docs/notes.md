@@ -87,3 +87,4 @@
 2025-08-01 small perf pass
 2025-08-07 readme
 2025-08-07 typo
+2025-08-12 bump deps
