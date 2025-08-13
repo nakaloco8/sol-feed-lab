@@ -68,3 +68,4 @@
 2025-08-03 guard against None
 2025-08-05 add tests
 2025-08-07 refactor parser
+2025-08-13 fix timezone bug
