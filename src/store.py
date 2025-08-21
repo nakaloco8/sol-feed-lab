@@ -69,3 +69,4 @@
 2025-08-05 add tests
 2025-08-07 refactor parser
 2025-08-13 fix timezone bug
+2025-08-21 dockerfile
