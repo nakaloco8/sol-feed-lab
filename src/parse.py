@@ -79,3 +79,4 @@
 2025-08-03 typeshed
 2025-08-07 guard against None
 2025-08-10 typo
+2025-08-22 revert
