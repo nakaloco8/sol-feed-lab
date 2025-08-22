@@ -86,3 +86,4 @@
 2025-08-13 wip 2
 2025-08-17 wip 2
 2025-08-21 add cli flag
+2025-08-22 move config to env
