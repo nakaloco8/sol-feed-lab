@@ -80,3 +80,4 @@
 2025-08-07 guard against None
 2025-08-10 typo
 2025-08-22 revert
+2025-08-22 cleanup dead code
