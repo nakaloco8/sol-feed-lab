@@ -87,3 +87,4 @@
 2025-08-17 wip 2
 2025-08-21 add cli flag
 2025-08-22 move config to env
+2025-08-23 log the raw payload
