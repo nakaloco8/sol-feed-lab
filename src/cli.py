@@ -90,3 +90,4 @@
 2025-08-08 typeshed
 2025-08-16 fix timezone bug
 2025-08-25 readme
+2025-08-25 migration
