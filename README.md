@@ -79,3 +79,4 @@
 2025-08-22 fix timezone bug
 2025-08-25 cleanup dead code
 2025-08-25 backoff on failure
+2025-08-25 bump deps
