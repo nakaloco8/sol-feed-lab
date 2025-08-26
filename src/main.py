@@ -90,3 +90,4 @@
 2025-08-10 pagination fix
 2025-08-13 refactor parser
 2025-08-14 refactor parser
+2025-08-26 cache the lookups
