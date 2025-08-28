@@ -82,3 +82,4 @@
 2025-08-25 bump deps
 2025-08-26 pagination fix
 2025-08-26 pagination fix
+2025-08-28 migration
