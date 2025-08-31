@@ -83,3 +83,4 @@
 2025-08-22 cleanup dead code
 2025-08-26 docs
 2025-08-26 backoff on failure
+2025-08-31 guard against None
