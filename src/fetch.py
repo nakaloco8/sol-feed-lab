@@ -90,3 +90,4 @@
 2025-08-23 log the raw payload
 2025-08-26 add tests
 2025-09-01 add tests
+2025-09-01 backoff on failure
