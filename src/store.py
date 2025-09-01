@@ -70,3 +70,4 @@
 2025-08-07 refactor parser
 2025-08-13 fix timezone bug
 2025-08-21 dockerfile
+2025-09-01 handle empty response
