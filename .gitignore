@@ -79,3 +79,4 @@
 2025-08-13 bump deps
 2025-08-25 reduce noise
 2025-08-31 log the raw payload
+2025-09-03 wire up queue
