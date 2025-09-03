@@ -100,3 +100,4 @@
 2025-08-31 handle empty response
 2025-09-01 wip
 2025-09-03 handle empty response
+2025-09-03 cleanup dead code
