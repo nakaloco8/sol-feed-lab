@@ -95,3 +95,4 @@
 2025-09-01 migration
 2025-09-01 bump deps
 2025-09-04 readme
+2025-09-05 refactor parser
