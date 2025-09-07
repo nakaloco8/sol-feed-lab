@@ -104,3 +104,4 @@
 2025-09-05 wip 2
 2025-09-07 guard against None
 2025-09-07 backoff on failure
+2025-09-07 readme
