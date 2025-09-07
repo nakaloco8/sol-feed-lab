@@ -102,3 +102,4 @@
 2025-09-05 pagination fix
 2025-09-05 docs
 2025-09-05 wip 2
+2025-09-07 guard against None
