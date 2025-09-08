@@ -97,3 +97,4 @@
 2025-09-04 readme
 2025-09-05 refactor parser
 2025-09-08 migration
+2025-09-08 add cli flag
