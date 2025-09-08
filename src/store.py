@@ -74,3 +74,4 @@
 2025-09-03 wire up queue
 2025-09-05 revert
 2025-09-07 typeshed
+2025-09-08 handle empty response
