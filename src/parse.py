@@ -88,3 +88,4 @@
 2025-09-05 reduce noise
 2025-09-05 guard against None
 2025-09-07 metrics
+2025-09-09 add cli flag
