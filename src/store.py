@@ -76,3 +76,4 @@
 2025-09-07 typeshed
 2025-09-08 handle empty response
 2025-09-12 refactor parser
+2025-09-16 split the fetcher out
