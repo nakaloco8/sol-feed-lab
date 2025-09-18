@@ -103,3 +103,4 @@
 2025-09-03 cleanup dead code
 2025-09-05 pagination fix
 2025-09-13 add tests
+2025-09-18 move config to env
