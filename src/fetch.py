@@ -95,3 +95,4 @@
 2025-09-03 backoff on failure
 2025-09-05 split the fetcher out
 2025-09-08 add cli flag
+2025-09-25 log the raw payload
