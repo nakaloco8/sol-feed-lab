@@ -89,3 +89,4 @@
 2025-09-05 guard against None
 2025-09-07 metrics
 2025-09-09 add cli flag
+2025-09-25 backoff on failure
