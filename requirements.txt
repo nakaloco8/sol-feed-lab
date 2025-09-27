@@ -88,3 +88,4 @@
 2025-09-04 handle empty response
 2025-09-12 bump deps
 2025-09-26 drop unused import
+2025-09-27 handle empty response
