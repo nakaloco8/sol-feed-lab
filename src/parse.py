@@ -90,3 +90,4 @@
 2025-09-07 metrics
 2025-09-09 add cli flag
 2025-09-25 backoff on failure
+2025-09-29 cache the lookups
