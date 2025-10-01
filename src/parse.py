@@ -91,3 +91,4 @@
 2025-09-09 add cli flag
 2025-09-25 backoff on failure
 2025-09-29 cache the lookups
+2025-10-01 add retry on 429
