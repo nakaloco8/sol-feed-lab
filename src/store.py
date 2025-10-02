@@ -78,3 +78,4 @@
 2025-09-12 refactor parser
 2025-09-16 split the fetcher out
 2025-10-01 fix timezone bug
+2025-10-02 wire up queue
