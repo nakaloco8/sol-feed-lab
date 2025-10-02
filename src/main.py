@@ -106,3 +106,4 @@
 2025-09-18 move config to env
 2025-09-25 handle empty response
 2025-10-01 wip 2
+2025-10-02 split the fetcher out
