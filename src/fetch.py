@@ -97,3 +97,4 @@
 2025-09-08 add cli flag
 2025-09-25 log the raw payload
 2025-09-27 bump deps
+2025-10-02 hotfix
