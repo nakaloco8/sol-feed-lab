@@ -93,3 +93,4 @@
 2025-10-02 docs
 2025-10-03 wip
 2025-10-03 add retry on 429
+2025-10-06 handle empty response
