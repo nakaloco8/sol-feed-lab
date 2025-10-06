@@ -96,3 +96,4 @@
 2025-10-06 handle empty response
 2025-10-06 add tests
 2025-10-06 docs
+2025-10-06 typo
