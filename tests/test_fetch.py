@@ -82,3 +82,4 @@
 2025-10-05 pagination fix
 2025-10-05 backoff on failure
 2025-10-05 readme
+2025-10-08 metrics
