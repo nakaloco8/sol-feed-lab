@@ -102,3 +102,4 @@
 2025-10-01 typo
 2025-10-11 typeshed
 2025-10-16 bump deps
+2025-10-16 small perf pass
