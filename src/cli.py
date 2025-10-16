@@ -101,3 +101,4 @@
 2025-09-26 cleanup dead code
 2025-10-01 typo
 2025-10-11 typeshed
+2025-10-16 bump deps
