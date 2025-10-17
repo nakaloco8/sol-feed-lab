@@ -99,3 +99,4 @@
 2025-09-27 bump deps
 2025-10-02 hotfix
 2025-10-13 wire up queue
+2025-10-17 typo
