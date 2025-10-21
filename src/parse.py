@@ -93,3 +93,4 @@
 2025-09-29 cache the lookups
 2025-10-01 add retry on 429
 2025-10-14 wip
+2025-10-21 metrics
