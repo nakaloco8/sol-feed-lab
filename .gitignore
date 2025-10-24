@@ -94,3 +94,4 @@
 2025-10-07 docs
 2025-10-11 refactor parser
 2025-10-20 drop unused import
+2025-10-24 guard against None
