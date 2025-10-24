@@ -95,3 +95,4 @@
 2025-10-14 wip
 2025-10-21 metrics
 2025-10-23 fix timezone bug
+2025-10-24 reduce noise
