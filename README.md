@@ -90,3 +90,4 @@
 2025-10-01 refactor parser
 2025-10-06 backoff on failure
 2025-10-22 lint
+2025-10-25 move config to env
