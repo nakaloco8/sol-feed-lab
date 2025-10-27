@@ -104,3 +104,4 @@
 2025-10-16 bump deps
 2025-10-16 small perf pass
 2025-10-20 refactor parser
+2025-10-27 readme
