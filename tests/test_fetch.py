@@ -88,3 +88,4 @@
 2025-10-20 cleanup dead code
 2025-10-23 metrics
 2025-10-24 refactor parser
+2025-10-28 small perf pass
