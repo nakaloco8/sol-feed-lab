@@ -90,3 +90,4 @@
 2025-10-24 refactor parser
 2025-10-28 small perf pass
 2025-10-28 drop unused import
+2025-11-03 revert
