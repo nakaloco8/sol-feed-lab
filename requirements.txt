@@ -105,3 +105,4 @@
 2025-11-03 reduce noise
 2025-11-03 revert
 2025-11-03 wire up queue
+2025-11-04 metrics
