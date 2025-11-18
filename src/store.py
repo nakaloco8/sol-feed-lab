@@ -82,3 +82,4 @@
 2025-10-02 revert
 2025-10-10 typeshed
 2025-10-28 wip
+2025-11-18 add retry on 429
