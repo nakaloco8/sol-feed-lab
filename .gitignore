@@ -100,3 +100,4 @@
 2025-10-28 backoff on failure
 2025-10-28 dockerfile
 2025-11-15 handle empty response
+2025-11-18 cleanup dead code
