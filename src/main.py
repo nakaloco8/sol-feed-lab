@@ -114,3 +114,4 @@
 2025-11-02 refactor parser
 2025-11-03 docs
 2025-11-15 split the fetcher out
+2025-11-20 dockerfile
