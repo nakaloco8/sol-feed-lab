@@ -109,3 +109,4 @@
 2025-10-31 fix timezone bug
 2025-11-18 lint
 2025-11-24 reduce noise
+2025-11-24 add retry on 429
