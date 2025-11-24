@@ -100,3 +100,4 @@
 2025-10-28 revert
 2025-11-05 add tests
 2025-11-24 refactor parser
+2025-11-24 cache the lookups
