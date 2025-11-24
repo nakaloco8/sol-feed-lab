@@ -84,3 +84,4 @@
 2025-10-28 wip
 2025-11-18 add retry on 429
 2025-11-20 refactor parser
+2025-11-24 cache the lookups
