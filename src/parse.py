@@ -102,3 +102,4 @@
 2025-11-24 refactor parser
 2025-11-24 cache the lookups
 2025-11-24 metrics
+2025-12-09 guard against None
