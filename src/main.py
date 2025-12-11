@@ -116,3 +116,4 @@
 2025-11-15 split the fetcher out
 2025-11-20 dockerfile
 2025-12-08 readme
+2025-12-11 typo
