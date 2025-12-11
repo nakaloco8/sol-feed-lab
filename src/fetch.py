@@ -106,3 +106,4 @@
 2025-10-30 refactor parser
 2025-11-04 reduce noise
 2025-11-30 wip
+2025-12-11 cache the lookups
