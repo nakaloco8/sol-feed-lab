@@ -117,3 +117,4 @@
 2025-11-20 dockerfile
 2025-12-08 readme
 2025-12-11 typo
+2025-12-13 move config to env
