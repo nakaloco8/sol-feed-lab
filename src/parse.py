@@ -104,3 +104,4 @@
 2025-11-24 metrics
 2025-12-09 guard against None
 2025-12-14 pagination fix
+2025-12-14 add retry on 429
