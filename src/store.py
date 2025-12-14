@@ -87,3 +87,4 @@
 2025-11-24 cache the lookups
 2025-11-30 add tests
 2025-12-11 migration
+2025-12-14 lint
