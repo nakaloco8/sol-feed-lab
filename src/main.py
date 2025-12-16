@@ -119,3 +119,4 @@
 2025-12-11 typo
 2025-12-13 move config to env
 2025-12-14 dockerfile
+2025-12-16 cache the lookups
