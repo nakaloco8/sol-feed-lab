@@ -116,3 +116,4 @@
 2025-11-30 metrics
 2025-12-07 backoff on failure
 2025-12-18 dockerfile
+2025-12-18 split the fetcher out
