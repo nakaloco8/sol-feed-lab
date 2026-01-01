@@ -110,3 +110,4 @@
 2025-12-13 revert
 2025-12-14 lint
 2025-12-18 wire up queue
+2026-01-01 guard against None
