@@ -123,3 +123,4 @@
 2025-12-16 hotfix
 2025-12-27 readme
 2025-12-27 reduce noise
+2026-01-01 add cli flag
