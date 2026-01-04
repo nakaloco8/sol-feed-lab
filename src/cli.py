@@ -112,3 +112,4 @@
 2025-11-24 add retry on 429
 2025-11-30 lint
 2026-01-04 typo
+2026-01-04 cleanup dead code
