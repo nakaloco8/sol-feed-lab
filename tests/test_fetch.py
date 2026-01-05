@@ -101,3 +101,4 @@
 2025-12-18 pagination fix
 2025-12-18 migration
 2025-12-29 reduce noise
+2026-01-05 dockerfile
