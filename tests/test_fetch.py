@@ -102,3 +102,4 @@
 2025-12-18 migration
 2025-12-29 reduce noise
 2026-01-05 dockerfile
+2026-01-05 split the fetcher out
