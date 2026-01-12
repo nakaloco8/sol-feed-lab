@@ -113,3 +113,4 @@
 2025-11-30 lint
 2026-01-04 typo
 2026-01-04 cleanup dead code
+2026-01-12 add cli flag
