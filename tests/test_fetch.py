@@ -103,3 +103,4 @@
 2025-12-29 reduce noise
 2026-01-05 dockerfile
 2026-01-05 split the fetcher out
+2026-01-15 bump deps
