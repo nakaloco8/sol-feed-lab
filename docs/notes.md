@@ -119,3 +119,4 @@
 2025-12-18 split the fetcher out
 2026-01-05 fix timezone bug
 2026-01-05 add retry on 429
+2026-01-16 reduce noise
