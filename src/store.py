@@ -94,3 +94,4 @@
 2026-01-02 reduce noise
 2026-01-16 pagination fix
 2026-01-16 pagination fix
+2026-01-16 guard against None
