@@ -106,3 +106,4 @@
 2026-01-15 bump deps
 2026-01-16 pagination fix
 2026-01-16 migration
+2026-01-18 migration
