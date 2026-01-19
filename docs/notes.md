@@ -121,3 +121,4 @@
 2026-01-05 add retry on 429
 2026-01-16 reduce noise
 2026-01-16 drop unused import
+2026-01-19 handle empty response
