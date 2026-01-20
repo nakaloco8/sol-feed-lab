@@ -122,3 +122,4 @@
 2026-01-16 reduce noise
 2026-01-16 drop unused import
 2026-01-19 handle empty response
+2026-01-20 docs
