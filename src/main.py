@@ -125,3 +125,4 @@
 2025-12-27 reduce noise
 2026-01-01 add cli flag
 2026-01-19 cache the lookups
+2026-01-20 backoff on failure
