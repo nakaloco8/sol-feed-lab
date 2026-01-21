@@ -115,3 +115,4 @@
 2026-01-04 cleanup dead code
 2026-01-12 add cli flag
 2026-01-20 metrics
+2026-01-21 typeshed
