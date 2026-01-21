@@ -113,3 +113,4 @@
 2026-01-10 refactor parser
 2026-01-12 lint
 2026-01-17 backoff on failure
+2026-01-21 pagination fix
