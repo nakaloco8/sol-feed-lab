@@ -97,3 +97,4 @@
 2026-01-16 guard against None
 2026-01-17 add cli flag
 2026-01-19 guard against None
+2026-01-24 refactor parser
