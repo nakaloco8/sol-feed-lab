@@ -126,3 +126,4 @@
 2026-01-01 add cli flag
 2026-01-19 cache the lookups
 2026-01-20 backoff on failure
+2026-01-28 typeshed
