@@ -123,3 +123,4 @@
 2026-01-16 drop unused import
 2026-01-19 handle empty response
 2026-01-20 docs
+2026-01-29 move config to env
