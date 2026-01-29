@@ -127,3 +127,4 @@
 2026-01-19 cache the lookups
 2026-01-20 backoff on failure
 2026-01-28 typeshed
+2026-01-29 hotfix
