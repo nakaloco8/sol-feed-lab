@@ -100,3 +100,4 @@
 2026-01-24 refactor parser
 2026-01-24 log the raw payload
 2026-01-27 add retry on 429
+2026-01-31 add cli flag
