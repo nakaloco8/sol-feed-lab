@@ -115,3 +115,4 @@
 2026-01-09 add cli flag
 2026-01-16 refactor parser
 2026-01-20 add tests
+2026-02-02 typeshed
