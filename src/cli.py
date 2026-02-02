@@ -118,3 +118,4 @@
 2026-01-21 typeshed
 2026-01-29 fix timezone bug
 2026-01-29 hotfix
+2026-02-02 small perf pass
