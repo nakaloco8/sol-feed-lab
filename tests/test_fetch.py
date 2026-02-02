@@ -109,3 +109,4 @@
 2026-01-18 migration
 2026-01-20 small perf pass
 2026-01-28 migration
+2026-02-02 typo
