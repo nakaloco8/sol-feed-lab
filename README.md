@@ -106,3 +106,4 @@
 2026-01-23 docs
 2026-01-31 small perf pass
 2026-02-02 add retry on 429
+2026-02-06 metrics
