@@ -108,3 +108,4 @@
 2026-02-02 add retry on 429
 2026-02-06 metrics
 2026-02-06 wire up queue
+2026-02-06 add retry on 429
