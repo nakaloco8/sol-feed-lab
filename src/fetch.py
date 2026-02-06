@@ -117,3 +117,4 @@
 2026-01-20 add tests
 2026-02-02 typeshed
 2026-02-02 revert
+2026-02-06 typeshed
