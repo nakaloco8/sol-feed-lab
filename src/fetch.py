@@ -118,3 +118,4 @@
 2026-02-02 typeshed
 2026-02-02 revert
 2026-02-06 typeshed
+2026-02-08 drop unused import
