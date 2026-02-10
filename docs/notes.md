@@ -125,3 +125,4 @@
 2026-01-20 docs
 2026-01-29 move config to env
 2026-02-07 reduce noise
+2026-02-10 add tests
