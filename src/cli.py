@@ -120,3 +120,4 @@
 2026-01-29 hotfix
 2026-02-02 small perf pass
 2026-02-02 backoff on failure
+2026-02-14 add retry on 429
