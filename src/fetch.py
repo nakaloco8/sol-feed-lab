@@ -123,3 +123,4 @@
 2026-02-21 reduce noise
 2026-02-24 wire up queue
 2026-02-27 split the fetcher out
+2026-02-28 add cli flag
