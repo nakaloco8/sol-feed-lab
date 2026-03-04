@@ -128,3 +128,4 @@
 2026-02-10 add tests
 2026-02-24 move config to env
 2026-02-27 handle empty response
+2026-03-04 hotfix
