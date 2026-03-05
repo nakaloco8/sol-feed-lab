@@ -104,3 +104,4 @@
 2026-01-31 bump deps
 2026-02-02 move config to env
 2026-02-24 lint
+2026-03-05 refactor parser
