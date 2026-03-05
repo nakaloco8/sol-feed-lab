@@ -105,3 +105,4 @@
 2026-02-02 move config to env
 2026-02-24 lint
 2026-03-05 refactor parser
+2026-03-05 handle empty response
