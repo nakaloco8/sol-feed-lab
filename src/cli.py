@@ -125,3 +125,4 @@
 2026-02-25 backoff on failure
 2026-03-06 hotfix
 2026-03-11 lint
+2026-03-15 guard against None
