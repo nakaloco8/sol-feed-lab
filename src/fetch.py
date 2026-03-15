@@ -125,3 +125,4 @@
 2026-02-27 split the fetcher out
 2026-02-28 add cli flag
 2026-03-11 docs
+2026-03-15 log the raw payload
