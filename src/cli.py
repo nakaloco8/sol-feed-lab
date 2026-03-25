@@ -127,3 +127,4 @@
 2026-03-11 lint
 2026-03-15 guard against None
 2026-03-17 small perf pass
+2026-03-25 bump deps
