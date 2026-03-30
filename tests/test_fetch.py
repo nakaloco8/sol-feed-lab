@@ -118,3 +118,4 @@
 2026-03-15 readme
 2026-03-25 bump deps
 2026-03-26 add cli flag
+2026-03-30 guard against None
