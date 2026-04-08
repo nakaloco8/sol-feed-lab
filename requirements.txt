@@ -134,3 +134,4 @@
 2026-03-28 guard against None
 2026-04-01 revert
 2026-04-04 bump deps
+2026-04-08 handle empty response
