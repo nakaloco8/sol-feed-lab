@@ -129,3 +129,4 @@
 2026-03-17 small perf pass
 2026-03-25 bump deps
 2026-04-03 add tests
+2026-04-11 typeshed
