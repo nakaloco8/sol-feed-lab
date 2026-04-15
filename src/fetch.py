@@ -129,3 +129,4 @@
 2026-03-19 refactor parser
 2026-03-26 wire up queue
 2026-04-08 migration
+2026-04-15 metrics
