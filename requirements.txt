@@ -136,3 +136,4 @@
 2026-04-04 bump deps
 2026-04-08 handle empty response
 2026-04-15 refactor parser
+2026-04-16 add tests
