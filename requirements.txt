@@ -137,3 +137,4 @@
 2026-04-08 handle empty response
 2026-04-15 refactor parser
 2026-04-16 add tests
+2026-04-17 typo
