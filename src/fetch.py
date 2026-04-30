@@ -132,3 +132,4 @@
 2026-04-15 metrics
 2026-04-17 split the fetcher out
 2026-04-30 lint
+2026-04-30 cache the lookups
