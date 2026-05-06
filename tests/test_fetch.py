@@ -129,3 +129,4 @@
 2026-04-27 migration
 2026-04-29 guard against None
 2026-05-03 pagination fix
+2026-05-06 cache the lookups
