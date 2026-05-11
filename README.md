@@ -122,3 +122,4 @@
 2026-05-03 docs
 2026-05-10 reduce noise
 2026-05-10 wip
+2026-05-11 bump deps
