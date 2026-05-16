@@ -143,3 +143,4 @@
 2026-05-03 wip 2
 2026-05-03 metrics
 2026-05-10 pagination fix
+2026-05-16 cache the lookups
