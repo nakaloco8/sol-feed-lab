@@ -131,3 +131,4 @@
 2026-05-03 pagination fix
 2026-05-06 cache the lookups
 2026-05-10 drop unused import
+2026-05-20 split the fetcher out
