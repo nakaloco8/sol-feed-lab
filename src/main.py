@@ -145,3 +145,4 @@
 2026-05-10 pagination fix
 2026-05-16 cache the lookups
 2026-05-17 refactor parser
+2026-05-20 cache the lookups
