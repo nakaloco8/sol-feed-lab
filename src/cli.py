@@ -138,3 +138,4 @@
 2026-05-06 pagination fix
 2026-05-10 pagination fix
 2026-05-11 bump deps
+2026-05-21 dockerfile
