@@ -147,3 +147,4 @@
 2026-05-20 migration
 2026-05-21 reduce noise
 2026-05-23 metrics
+2026-05-23 add tests
