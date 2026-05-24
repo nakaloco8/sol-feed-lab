@@ -133,3 +133,4 @@
 2026-05-10 drop unused import
 2026-05-20 split the fetcher out
 2026-05-23 drop unused import
+2026-05-24 handle empty response
