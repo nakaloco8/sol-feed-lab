@@ -146,3 +146,4 @@
 2026-05-03 wip
 2026-05-10 drop unused import
 2026-05-17 handle empty response
+2026-05-24 readme
