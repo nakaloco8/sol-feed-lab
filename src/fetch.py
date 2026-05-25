@@ -135,3 +135,4 @@
 2026-04-30 cache the lookups
 2026-05-06 migration
 2026-05-20 lint
+2026-05-25 add cli flag
