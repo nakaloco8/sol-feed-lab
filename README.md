@@ -124,3 +124,4 @@
 2026-05-10 wip
 2026-05-11 bump deps
 2026-05-17 metrics
+2026-05-25 wire up queue
