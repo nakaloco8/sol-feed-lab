@@ -149,3 +149,4 @@
 2026-05-23 metrics
 2026-05-23 add tests
 2026-05-23 cache the lookups
+2026-05-26 add cli flag
