@@ -126,3 +126,4 @@
 2026-05-17 metrics
 2026-05-25 wire up queue
 2026-05-25 pagination fix
+2026-05-31 docs
