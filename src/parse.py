@@ -136,3 +136,4 @@
 2026-05-25 revert
 2026-05-30 backoff on failure
 2026-05-31 refactor parser
+2026-05-31 bump deps
