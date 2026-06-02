@@ -141,3 +141,4 @@
 2026-05-21 dockerfile
 2026-05-23 migration
 2026-05-30 bump deps
+2026-06-02 typeshed
