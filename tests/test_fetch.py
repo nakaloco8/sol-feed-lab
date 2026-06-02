@@ -135,3 +135,4 @@
 2026-05-23 drop unused import
 2026-05-24 handle empty response
 2026-05-31 drop unused import
+2026-06-02 readme
