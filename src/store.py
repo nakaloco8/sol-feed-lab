@@ -114,3 +114,4 @@
 2026-05-10 wip 2
 2026-05-12 docs
 2026-05-20 bump deps
+2026-06-03 log the raw payload
