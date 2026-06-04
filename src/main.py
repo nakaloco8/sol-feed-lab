@@ -147,3 +147,4 @@
 2026-05-17 refactor parser
 2026-05-20 cache the lookups
 2026-05-23 wire up queue
+2026-06-04 log the raw payload
