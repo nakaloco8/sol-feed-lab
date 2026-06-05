@@ -148,3 +148,4 @@
 2026-05-20 cache the lookups
 2026-05-23 wire up queue
 2026-06-04 log the raw payload
+2026-06-05 add cli flag
