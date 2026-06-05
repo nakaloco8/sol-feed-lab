@@ -150,3 +150,4 @@
 2026-06-04 log the raw payload
 2026-06-05 add cli flag
 2026-06-05 docs
+2026-06-05 move config to env
