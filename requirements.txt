@@ -153,3 +153,4 @@
 2026-05-27 metrics
 2026-05-28 cache the lookups
 2026-06-02 readme
+2026-06-06 add tests
