@@ -142,3 +142,4 @@
 2026-05-23 migration
 2026-05-30 bump deps
 2026-06-02 typeshed
+2026-06-06 reduce noise
