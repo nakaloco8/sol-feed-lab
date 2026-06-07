@@ -151,3 +151,4 @@
 2026-06-05 add cli flag
 2026-06-05 docs
 2026-06-05 move config to env
+2026-06-07 pagination fix
