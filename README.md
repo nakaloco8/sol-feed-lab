@@ -128,3 +128,4 @@
 2026-05-25 pagination fix
 2026-05-31 docs
 2026-06-06 bump deps
+2026-06-12 add tests
