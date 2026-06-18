@@ -115,3 +115,4 @@
 2026-05-12 docs
 2026-05-20 bump deps
 2026-06-03 log the raw payload
+2026-06-18 small perf pass
