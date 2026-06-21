@@ -130,3 +130,4 @@
 2026-06-06 bump deps
 2026-06-12 add tests
 2026-06-18 lint
+2026-06-21 readme
