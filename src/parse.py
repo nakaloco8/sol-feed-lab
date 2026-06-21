@@ -141,3 +141,4 @@
 2026-06-13 dockerfile
 2026-06-21 small perf pass
 2026-06-21 wip 2
+2026-06-21 add cli flag
