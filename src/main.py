@@ -155,3 +155,4 @@
 2026-06-17 log the raw payload
 2026-06-23 fix timezone bug
 2026-06-23 refactor parser
+2026-06-27 add cli flag
