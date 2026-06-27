@@ -157,3 +157,4 @@
 2026-06-07 small perf pass
 2026-06-07 wire up queue
 2026-06-18 dockerfile
+2026-06-27 log the raw payload
