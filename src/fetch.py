@@ -136,3 +136,4 @@
 2026-05-06 migration
 2026-05-20 lint
 2026-05-25 add cli flag
+2026-06-27 dockerfile
