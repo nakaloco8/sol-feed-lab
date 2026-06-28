@@ -154,3 +154,4 @@
 2026-06-03 wip 2
 2026-06-09 typeshed
 2026-06-21 guard against None
+2026-06-28 handle empty response
