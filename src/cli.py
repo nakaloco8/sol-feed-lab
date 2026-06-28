@@ -144,3 +144,4 @@
 2026-06-02 typeshed
 2026-06-06 reduce noise
 2026-06-26 readme
+2026-06-28 add cli flag
