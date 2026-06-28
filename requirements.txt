@@ -158,3 +158,4 @@
 2026-06-07 wire up queue
 2026-06-18 dockerfile
 2026-06-27 log the raw payload
+2026-06-28 guard against None
