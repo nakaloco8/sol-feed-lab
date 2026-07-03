@@ -133,3 +133,4 @@
 2026-06-21 readme
 2026-06-28 handle empty response
 2026-06-30 handle empty response
+2026-07-03 cache the lookups
