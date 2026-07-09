@@ -141,3 +141,4 @@
 2026-06-26 add tests
 2026-07-03 drop unused import
 2026-07-05 split the fetcher out
+2026-07-09 log the raw payload
