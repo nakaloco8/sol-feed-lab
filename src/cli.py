@@ -145,3 +145,4 @@
 2026-06-06 reduce noise
 2026-06-26 readme
 2026-06-28 add cli flag
+2026-07-09 split the fetcher out
