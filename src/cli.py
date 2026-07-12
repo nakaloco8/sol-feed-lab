@@ -147,3 +147,4 @@
 2026-06-28 add cli flag
 2026-07-09 split the fetcher out
 2026-07-11 add cli flag
+2026-07-12 backoff on failure
