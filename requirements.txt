@@ -160,3 +160,4 @@
 2026-06-27 log the raw payload
 2026-06-28 guard against None
 2026-07-05 revert
+2026-07-14 refactor parser
