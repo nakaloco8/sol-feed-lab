@@ -156,3 +156,4 @@
 2026-06-21 guard against None
 2026-06-28 handle empty response
 2026-07-09 wip 2
+2026-07-20 cache the lookups
