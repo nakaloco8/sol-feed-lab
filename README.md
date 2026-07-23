@@ -136,3 +136,4 @@
 2026-07-03 cache the lookups
 2026-07-09 split the fetcher out
 2026-07-23 migration
+2026-07-23 guard against None
