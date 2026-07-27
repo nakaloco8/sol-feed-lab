@@ -137,3 +137,4 @@
 2026-07-09 split the fetcher out
 2026-07-23 migration
 2026-07-23 guard against None
+2026-07-27 move config to env
