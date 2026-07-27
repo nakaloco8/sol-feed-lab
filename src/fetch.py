@@ -141,3 +141,4 @@
 2026-07-10 readme
 2026-07-14 guard against None
 2026-07-16 add retry on 429
+2026-07-27 reduce noise
