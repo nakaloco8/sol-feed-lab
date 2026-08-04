@@ -158,3 +158,4 @@
 2026-07-09 wip 2
 2026-07-20 cache the lookups
 2026-07-20 typo
+2026-08-04 handle empty response
