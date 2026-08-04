@@ -159,3 +159,4 @@
 2026-07-09 small perf pass
 2026-07-11 refactor parser
 2026-07-20 add cli flag
+2026-08-04 typo
