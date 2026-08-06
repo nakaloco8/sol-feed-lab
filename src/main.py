@@ -160,3 +160,4 @@
 2026-07-11 refactor parser
 2026-07-20 add cli flag
 2026-08-04 typo
+2026-08-06 move config to env
