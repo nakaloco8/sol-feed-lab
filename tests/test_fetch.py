@@ -144,3 +144,4 @@
 2026-07-20 migration
 2026-07-23 dockerfile
 2026-08-05 readme
+2026-08-08 handle empty response
