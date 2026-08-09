@@ -143,3 +143,4 @@
 2026-07-16 add retry on 429
 2026-07-27 reduce noise
 2026-08-08 fix timezone bug
+2026-08-09 backoff on failure
