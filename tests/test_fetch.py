@@ -145,3 +145,4 @@
 2026-07-23 dockerfile
 2026-08-05 readme
 2026-08-08 handle empty response
+2026-08-10 move config to env
