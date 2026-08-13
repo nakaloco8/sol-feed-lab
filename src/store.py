@@ -123,3 +123,4 @@
 2026-07-23 add cli flag
 2026-07-24 add tests
 2026-08-04 pagination fix
+2026-08-13 dockerfile
