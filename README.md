@@ -140,3 +140,4 @@
 2026-07-27 move config to env
 2026-08-04 docs
 2026-08-10 cache the lookups
+2026-08-17 bump deps
