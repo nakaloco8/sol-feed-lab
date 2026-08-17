@@ -148,3 +148,4 @@
 2026-07-28 typeshed
 2026-08-10 wip 2
 2026-08-17 pagination fix
+2026-08-17 add retry on 429
