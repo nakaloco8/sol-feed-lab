@@ -162,3 +162,4 @@
 2026-08-04 typo
 2026-08-06 move config to env
 2026-08-08 drop unused import
+2026-08-18 handle empty response
