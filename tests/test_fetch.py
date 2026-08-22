@@ -147,3 +147,4 @@
 2026-08-08 handle empty response
 2026-08-10 move config to env
 2026-08-13 add tests
+2026-08-22 migration
