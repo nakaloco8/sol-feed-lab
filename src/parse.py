@@ -144,3 +144,4 @@
 2026-06-21 add cli flag
 2026-07-23 fix timezone bug
 2026-08-04 fix timezone bug
+2026-08-23 fix timezone bug
