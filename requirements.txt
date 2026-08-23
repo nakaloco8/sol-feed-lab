@@ -170,3 +170,4 @@
 2026-08-22 lint
 2026-08-22 log the raw payload
 2026-08-22 log the raw payload
+2026-08-23 split the fetcher out
