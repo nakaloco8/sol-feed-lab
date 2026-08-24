@@ -151,3 +151,4 @@
 2026-08-17 add retry on 429
 2026-08-18 hotfix
 2026-08-23 revert
+2026-08-24 cache the lookups
