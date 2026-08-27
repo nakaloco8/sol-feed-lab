@@ -148,3 +148,4 @@
 2026-08-10 move config to env
 2026-08-13 add tests
 2026-08-22 migration
+2026-08-27 revert
