@@ -164,3 +164,4 @@
 2026-08-08 drop unused import
 2026-08-18 handle empty response
 2026-08-24 add cli flag
+2026-08-28 typo
