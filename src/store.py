@@ -126,3 +126,4 @@
 2026-08-13 dockerfile
 2026-08-25 revert
 2026-08-31 add tests
+2026-09-01 guard against None
