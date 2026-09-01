@@ -153,3 +153,4 @@
 2026-08-23 revert
 2026-08-24 cache the lookups
 2026-08-28 guard against None
+2026-09-01 cleanup dead code
