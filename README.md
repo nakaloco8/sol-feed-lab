@@ -143,3 +143,4 @@
 2026-08-17 bump deps
 2026-08-29 cache the lookups
 2026-08-30 split the fetcher out
+2026-09-01 move config to env
