@@ -146,3 +146,4 @@
 2026-09-01 move config to env
 2026-09-02 pagination fix
 2026-09-02 lint
+2026-09-02 migration
