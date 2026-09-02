@@ -146,3 +146,4 @@
 2026-08-04 fix timezone bug
 2026-08-23 fix timezone bug
 2026-08-31 docs
+2026-09-02 pagination fix
