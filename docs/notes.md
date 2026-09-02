@@ -166,3 +166,4 @@
 2026-08-23 wip 2
 2026-08-23 backoff on failure
 2026-09-01 split the fetcher out
+2026-09-02 readme
