@@ -127,3 +127,4 @@
 2026-08-25 revert
 2026-08-31 add tests
 2026-09-01 guard against None
+2026-09-02 pagination fix
