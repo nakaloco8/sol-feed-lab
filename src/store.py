@@ -129,3 +129,4 @@
 2026-09-01 guard against None
 2026-09-02 pagination fix
 2026-09-05 log the raw payload
+2026-09-06 lint
