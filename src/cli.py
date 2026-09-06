@@ -155,3 +155,4 @@
 2026-09-02 pagination fix
 2026-09-02 typeshed
 2026-09-02 migration
+2026-09-06 add cli flag
