@@ -131,3 +131,4 @@
 2026-09-05 log the raw payload
 2026-09-06 lint
 2026-09-07 cleanup dead code
+2026-09-08 add retry on 429
