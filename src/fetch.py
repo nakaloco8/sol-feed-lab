@@ -149,3 +149,4 @@
 2026-08-21 move config to env
 2026-08-23 typo
 2026-09-04 hotfix
+2026-09-10 add tests
