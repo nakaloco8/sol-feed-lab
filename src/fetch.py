@@ -150,3 +150,4 @@
 2026-08-23 typo
 2026-09-04 hotfix
 2026-09-10 add tests
+2026-09-10 guard against None
