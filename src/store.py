@@ -132,3 +132,4 @@
 2026-09-06 lint
 2026-09-07 cleanup dead code
 2026-09-08 add retry on 429
+2026-09-12 bump deps
