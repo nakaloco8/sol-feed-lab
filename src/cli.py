@@ -157,3 +157,4 @@
 2026-09-02 migration
 2026-09-06 add cli flag
 2026-09-06 split the fetcher out
+2026-09-12 guard against None
