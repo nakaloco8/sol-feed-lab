@@ -152,3 +152,4 @@
 2026-09-07 revert
 2026-09-10 split the fetcher out
 2026-09-12 drop unused import
+2026-09-13 cleanup dead code
