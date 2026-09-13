@@ -175,3 +175,4 @@
 2026-09-11 fix timezone bug
 2026-09-12 bump deps
 2026-09-13 split the fetcher out
+2026-09-13 log the raw payload
