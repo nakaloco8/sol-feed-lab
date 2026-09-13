@@ -174,3 +174,4 @@
 2026-09-11 cache the lookups
 2026-09-11 fix timezone bug
 2026-09-12 bump deps
+2026-09-13 split the fetcher out
