@@ -151,3 +151,4 @@
 2026-09-06 fix timezone bug
 2026-09-10 add cli flag
 2026-09-14 readme
+2026-09-14 bump deps
