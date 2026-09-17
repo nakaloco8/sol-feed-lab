@@ -133,3 +133,4 @@
 2026-09-07 cleanup dead code
 2026-09-08 add retry on 429
 2026-09-12 bump deps
+2026-09-17 refactor parser
