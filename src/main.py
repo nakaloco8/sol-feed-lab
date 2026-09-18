@@ -171,3 +171,4 @@
 2026-09-06 add cli flag
 2026-09-06 readme
 2026-09-14 log the raw payload
+2026-09-18 typeshed
