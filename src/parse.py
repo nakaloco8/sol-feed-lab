@@ -155,3 +155,4 @@
 2026-09-13 cleanup dead code
 2026-09-16 fix timezone bug
 2026-09-17 guard against None
+2026-09-20 dockerfile
