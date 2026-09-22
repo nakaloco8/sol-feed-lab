@@ -153,3 +153,4 @@
 2026-09-14 readme
 2026-09-14 bump deps
 2026-09-15 guard against None
+2026-09-22 guard against None
