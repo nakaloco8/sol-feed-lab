@@ -156,3 +156,4 @@
 2026-09-15 add cli flag
 2026-09-21 reduce noise
 2026-09-24 log the raw payload
+2026-09-27 move config to env
