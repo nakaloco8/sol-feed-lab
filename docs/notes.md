@@ -178,3 +178,4 @@
 2026-09-13 log the raw payload
 2026-09-18 handle empty response
 2026-09-25 dockerfile
+2026-09-27 add retry on 429
