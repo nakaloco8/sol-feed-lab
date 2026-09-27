@@ -175,3 +175,4 @@
 2026-09-20 readme
 2026-09-26 dockerfile
 2026-09-27 fix timezone bug
+2026-09-27 split the fetcher out
