@@ -153,3 +153,4 @@
 2026-09-06 split the fetcher out
 2026-09-09 fix timezone bug
 2026-09-28 readme
+2026-09-28 log the raw payload
