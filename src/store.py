@@ -135,3 +135,4 @@
 2026-09-12 bump deps
 2026-09-17 refactor parser
 2026-09-19 revert
+2026-09-28 guard against None
