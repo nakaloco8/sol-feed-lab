@@ -176,3 +176,4 @@
 2026-09-26 dockerfile
 2026-09-27 fix timezone bug
 2026-09-27 split the fetcher out
+2026-09-28 bump deps
