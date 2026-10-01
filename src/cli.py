@@ -160,3 +160,4 @@
 2026-09-12 guard against None
 2026-09-25 bump deps
 2026-09-26 dockerfile
+2026-10-01 add tests
