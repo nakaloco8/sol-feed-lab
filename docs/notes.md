@@ -179,3 +179,4 @@
 2026-09-18 handle empty response
 2026-09-25 dockerfile
 2026-09-27 add retry on 429
+2026-10-01 bump deps
