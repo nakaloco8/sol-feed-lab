@@ -163,3 +163,4 @@
 2026-10-01 add tests
 2026-10-04 drop unused import
 2026-10-06 move config to env
+2026-10-07 metrics
