@@ -138,3 +138,4 @@
 2026-09-28 guard against None
 2026-09-29 guard against None
 2026-10-07 migration
+2026-10-08 lint
