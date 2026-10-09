@@ -156,3 +156,4 @@
 2026-09-22 guard against None
 2026-09-28 backoff on failure
 2026-10-08 drop unused import
+2026-10-09 typeshed
