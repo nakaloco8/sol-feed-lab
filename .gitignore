@@ -162,3 +162,4 @@
 2026-09-15 typeshed
 2026-09-22 split the fetcher out
 2026-09-26 bump deps
+2026-10-10 handle empty response
