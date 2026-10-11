@@ -159,3 +159,4 @@
 2026-09-27 move config to env
 2026-09-28 readme
 2026-10-01 typeshed
+2026-10-11 add cli flag
