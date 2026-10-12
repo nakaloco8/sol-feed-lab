@@ -160,3 +160,4 @@
 2026-09-28 readme
 2026-10-01 typeshed
 2026-10-11 add cli flag
+2026-10-12 metrics
