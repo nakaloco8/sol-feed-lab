@@ -164,3 +164,4 @@
 2026-10-04 drop unused import
 2026-10-06 move config to env
 2026-10-07 metrics
+2026-10-12 reduce noise
