@@ -161,3 +161,4 @@
 2026-09-29 add cli flag
 2026-10-06 readme
 2026-10-12 wip 2
+2026-10-13 backoff on failure
