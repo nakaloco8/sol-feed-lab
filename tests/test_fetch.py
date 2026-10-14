@@ -157,3 +157,4 @@
 2026-10-04 cleanup dead code
 2026-10-11 lint
 2026-10-12 docs
+2026-10-14 handle empty response
