@@ -181,3 +181,4 @@
 2026-09-27 add retry on 429
 2026-10-01 bump deps
 2026-10-14 cache the lookups
+2026-10-15 wip
