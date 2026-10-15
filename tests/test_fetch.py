@@ -158,3 +158,4 @@
 2026-10-11 lint
 2026-10-12 docs
 2026-10-14 handle empty response
+2026-10-15 cache the lookups
