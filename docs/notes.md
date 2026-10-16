@@ -182,3 +182,4 @@
 2026-10-01 bump deps
 2026-10-14 cache the lookups
 2026-10-15 wip
+2026-10-16 cache the lookups
