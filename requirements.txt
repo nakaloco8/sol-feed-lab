@@ -184,3 +184,4 @@
 2026-10-03 metrics
 2026-10-10 move config to env
 2026-10-13 typo
+2026-10-18 cleanup dead code
