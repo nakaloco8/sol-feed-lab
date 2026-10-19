@@ -167,3 +167,4 @@
 2026-10-12 reduce noise
 2026-10-13 reduce noise
 2026-10-19 revert
+2026-10-19 split the fetcher out
