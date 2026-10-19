@@ -164,3 +164,4 @@
 2026-10-13 reduce noise
 2026-10-14 fix timezone bug
 2026-10-14 wip 2
+2026-10-19 add retry on 429
