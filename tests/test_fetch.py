@@ -162,3 +162,4 @@
 2026-10-18 guard against None
 2026-10-18 typeshed
 2026-10-20 wip
+2026-10-20 drop unused import
