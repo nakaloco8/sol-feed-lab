@@ -165,3 +165,4 @@
 2026-10-14 migration
 2026-10-14 cleanup dead code
 2026-10-20 wip 2
+2026-10-20 move config to env
