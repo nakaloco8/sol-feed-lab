@@ -170,3 +170,4 @@
 2026-10-19 split the fetcher out
 2026-10-19 typeshed
 2026-10-20 backoff on failure
+2026-10-20 typo
