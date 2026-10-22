@@ -180,3 +180,4 @@
 2026-10-02 migration
 2026-10-07 fix timezone bug
 2026-10-18 add retry on 429
+2026-10-22 handle empty response
