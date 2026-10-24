@@ -181,3 +181,4 @@
 2026-10-07 fix timezone bug
 2026-10-18 add retry on 429
 2026-10-22 handle empty response
+2026-10-24 add tests
