@@ -167,3 +167,4 @@
 2026-10-19 add retry on 429
 2026-10-20 log the raw payload
 2026-10-23 cleanup dead code
+2026-10-26 split the fetcher out
