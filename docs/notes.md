@@ -184,3 +184,4 @@
 2026-10-15 wip
 2026-10-16 cache the lookups
 2026-10-18 cache the lookups
+2026-10-26 reduce noise
