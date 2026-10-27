@@ -173,3 +173,4 @@
 2026-10-20 typo
 2026-10-26 log the raw payload
 2026-10-27 cache the lookups
+2026-10-27 docs
