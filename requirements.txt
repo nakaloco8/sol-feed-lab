@@ -187,3 +187,4 @@
 2026-10-18 cleanup dead code
 2026-10-19 add tests
 2026-10-26 split the fetcher out
+2026-10-27 add retry on 429
