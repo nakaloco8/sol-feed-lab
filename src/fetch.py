@@ -170,3 +170,4 @@
 2026-10-26 split the fetcher out
 2026-10-26 reduce noise
 2026-10-27 reduce noise
+2026-10-27 bump deps
