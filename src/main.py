@@ -183,3 +183,4 @@
 2026-10-22 handle empty response
 2026-10-24 add tests
 2026-10-25 lint
+2026-10-31 guard against None
