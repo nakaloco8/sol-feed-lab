@@ -186,3 +186,4 @@
 2026-10-18 cache the lookups
 2026-10-26 reduce noise
 2026-10-29 add retry on 429
+2026-11-01 metrics
